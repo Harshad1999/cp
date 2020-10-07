@@ -13,6 +13,7 @@ public class primewithtwist {
         primewithtwist ob=new primewithtwist();
 
         ob.check(n);
+        sc.close();
 
        
 
